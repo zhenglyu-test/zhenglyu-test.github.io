@@ -1,18 +1,18 @@
 # Site settings
-title: Zheng Lyu
-description: 'I love good things and great design.'
+title: Jekyll-Uno
+description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://zhenglyu-test.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Zheng Lyu'
-  email: work@zhenglyu.com
-  Twitter_username: zhenglyu
-  facebook_username: zheng.lyu
-  github_username:  zhenglyu
-  linkedin_username:  zhenglyu
+  name: 'Josh Gerdes'
+  email: josh@joshgerdes.com
+  twitter_username: joshgerdes
+  facebook_username: joshgerdes
+  github_username:  joshgerdes
+  linkedin_username:  joshgerdes
 
 defaults:
   -
