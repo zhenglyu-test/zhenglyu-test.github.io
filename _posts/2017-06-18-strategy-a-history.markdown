@@ -2,7 +2,7 @@
 title:  "Strategy : A History"
 date:   2017-05-08 15:04:23
 categories: [Books]
-tags: [Books],[Word]
+tags: [Books][Word]
 ---
 
 ![1](/images/post/20170618_strategy.jpg)<br/><br/>
