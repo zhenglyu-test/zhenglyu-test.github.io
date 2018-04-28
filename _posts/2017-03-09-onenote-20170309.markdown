@@ -2,7 +2,7 @@
 title:  "Why should I use Onenote?"
 date:   2017-03-09 15:08:23
 categories: [GTD]
-tags: [GTD],[Onenote]
+tags: [GTD,Onenote]
 ---
 
 In our previous blog post we talked about apps that are great for on the go note taking. We mentioned the Notes app that comes standard on iOS, as well as Evernote, YouDaoNote, and OneNote.

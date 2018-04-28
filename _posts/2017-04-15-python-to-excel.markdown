@@ -2,7 +2,7 @@
 title:  "Python 从入门到放弃（2）Excel库"
 date:   2017-04-15 15:04:23
 categories: [Python]
-tags: [Python],[Excel]
+tags: [Python,Excel]
 ---
 
 Python中Excel库的比较内容（如下）
